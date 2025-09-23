@@ -56,7 +56,3 @@ Para facilitar a navegação, o repositório está organizado em pastas que refl
 
 ---
 
-
-* **LinkedIn:** `[https://linkedin.com/in/seu-usuario]`
-* **GitHub:** `[https://github.com/seu-usuario]`
-* **Email:** `[seu.email@exemplo.com]`
